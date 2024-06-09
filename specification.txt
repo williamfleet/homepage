@@ -1,0 +1,23 @@
+10 HTML tags
+-meta
+-h1
+-h2
+-p
+-nav
+-a
+-ul
+-li
+-div
+-img
+
+5 CSS properties
+-border-radius
+-border
+-background-color
+-color
+-padding
+-font-size
+-text-decoration
+
+How I used JavaScript and Bootstrap:
+I used JavaScript to create a fade-in effect on the images on my Dream Board page and Bootstrap extensively to format my navigation bar, image grid, and for spacing and sizing throughout my page.
